@@ -1,0 +1,15 @@
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\bin\Debug\PrivatMessaging.dll
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\bin\Debug\PrivatMessaging.pdb
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\bin\Debug\Assembly-CSharp.dll
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\bin\Debug\Rocket.API.dll
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\bin\Debug\Rocket.Core.dll
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\bin\Debug\Rocket.Unturned.dll
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\bin\Debug\SDG.NetTransport.dll
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\bin\Debug\UnityEngine.dll
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\obj\Debug\PrivatMessaging.csproj.AssemblyReference.cache
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\obj\Debug\PrivatMessaging.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\obj\Debug\PrivatMe.F6436102.Up2Date
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\obj\Debug\PrivatMessaging.dll
+C:\Users\picap\source\repos\PrivatMessaging\PrivatMessaging\obj\Debug\PrivatMessaging.pdb
